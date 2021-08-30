@@ -38,7 +38,7 @@ button a {
 
 .corpo {
 	width: 100%;
-    height: 100vh;
+    height: 10vh;
     font-family: 'Montserrat', sans-serif;
     display: flex;
     align-content: space-around;
